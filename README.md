@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Ali
+# Hi, I'm Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 🚀 Passionate web developer with 4+ years of experience in building responsive, multilingual, and user-friendly web applications, I love turning complex ideas into sleek, interactive solutions.
 
-## 🛠️ Skills & Tools 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools 
 - **Frontend**: React.js, Next.js, JavaScript, TypeScript  
 - **Styling**: TailwindCSS, Material-UI, DaisyUI, Bootstrap  
 - **Backend (Exploring)**: Node.js, Express.js  
