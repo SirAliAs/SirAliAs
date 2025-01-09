@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali
+🚀 Passionate web developer with 4+ years of experience in building responsive, multilingual, and user-friendly web applications, I love turning complex ideas into sleek, interactive solutions.
 
-<!--
-**SirAliAs/SirAliAs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools 
+- **Frontend**: React.js, Next.js, JavaScript, TypeScript  
+- **Styling**: TailwindCSS, Material-UI, DaisyUI, Bootstrap  
+- **Backend (Exploring)**: Node.js, Express.js  
+- **Others**: Git, Redux, Axios
+  
+## 🌱 What I'm Up To
+- Building scalable, user-centric web applications.  
+- Exploring full-stack development to become a **full-stack web developer**.  
+- Sharing knowledge and collaborating with the developer community.
+  
+## ✨ Fun Facts  
+- Based in the Middle East 🌍  
+- Passionate about coding and gaming 🎮  
+- I enjoy experimenting with modern UI/UX trends to create outstanding user experiences.
+  
+## 📫 Let's Connect  
+- [Portfolio](https://aliastanboos.ir)  
+- [LinkedIn](https://linkedin.com/in/siralias)  
+- [Email Me](mailto:ali.astanboos@gmail.com) 
